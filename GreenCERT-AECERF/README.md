@@ -1,4 +1,5 @@
 # 🌿 GreenCERT – AECERF Framework
+![GreenCERT Architecture](greencert-architecture.png)
 
 ### AI-Enhanced Cyber-Environmental Risk Framework
 
